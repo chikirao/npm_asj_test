@@ -1,0 +1,22 @@
+{
+  "name": "npm_asj_test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+   "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chikirao/npm_asj_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chikirao/npm_asj_test/issues"
+  },
+  "homepage": "https://github.com/chikirao/npm_asj_test#readme",
+  "description": "",
+  "dependencies": {
+    "@chikirao/ajs": "^1.0.0"
+  }
+}
